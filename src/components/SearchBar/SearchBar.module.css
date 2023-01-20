@@ -1,0 +1,19 @@
+.input {
+    background-color:rgb(164, 170, 131);
+    color:brown;
+    border-radius: .3rem;
+
+}
+.button {
+    margin: 3%;
+    border-radius: .3rem;
+    cursor: pointer;
+    border: rgb(14, 13, 13) 2px solid;
+    color: rgb(111, 110, 109);
+    
+}
+
+.button:hover {
+    background-color: rgb(125, 100, 149);
+    color: white;
+}

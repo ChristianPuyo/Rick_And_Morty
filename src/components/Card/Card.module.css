@@ -1,0 +1,28 @@
+.divCard {
+   
+   
+    
+    
+    text-align:center;
+    background-color: #e5ccccf0;
+    position: relative;
+    border-radius: 10px;
+    color:black;
+    border: solid
+    
+    
+  }
+
+  .buttonCard{
+    position: relative;
+    background-color: red;
+    color: white;
+    border-radius: .3rem;
+    left: 130px;
+    
+  }
+
+  .buttonCard:hover {
+    background-color: #262623c9;
+    color: beige;
+  }
